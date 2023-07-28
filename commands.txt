@@ -1,0 +1,6 @@
+cd ntu
+cd Task4b
+cd dcase2023_task4b_baseline
+source activate /notebooks/ntu/Task4b/dcase2023
+python extract_features.py
+python task4b_panns_mtl.py
