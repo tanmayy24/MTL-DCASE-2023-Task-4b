@@ -73,8 +73,7 @@ As input the model uses mel-band energies extracted using a hop length of 200 ms
 
 ##### Acoustic features
 
-- Analysis frame 400 ms (50% hop size)
-- Mel-band energies (64 bands)
+- MFCCs
 
 ##### Neural network
 
